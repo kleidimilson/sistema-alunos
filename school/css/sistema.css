@@ -1,0 +1,10 @@
+body{
+    background-color: #DCDCDC;
+}
+h2,label,th,td,button,input{
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+};
+
+#titulo{
+    color: white;
+}
